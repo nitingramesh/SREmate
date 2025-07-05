@@ -20,6 +20,25 @@
 # Run locally
 uvicorn app.main:app --reload
 
+## Kubernetes Pod Status (Minikube Setup Guide)
+
+# Install kubectl
+brew install kubectl
+
+# Install Minikube
+brew install minikube
+
+# Start local Kubernetes cluster
+minikube start
+
+# Verify cluster status
+kubectl get nodes
+kubectl get pods -A
+
+# Open Swagger UI and test the endpoint
+# URL: http://localhost:8000/docs
+# Try /pods/status with namespace: default or kube-system
+
 # Docker
 docker build -t sremate .
 docker run -p 8000:8000 sremate
