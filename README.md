@@ -47,3 +47,11 @@ docker pull nitingr05/sremate:latest
 docker run -p 8000:8000 nitingr05/sremate
 ### 🔹 Step 3:
 http://localhost:8000/docs
+
+
+## 🌐 Live Demo
+
+SREMate is now publicly hosted on Render:
+
+🔗 https://sremate.onrender.com/docs  
+Use this to test API routes live from any browser.
