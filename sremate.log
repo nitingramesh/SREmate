@@ -1,0 +1,25 @@
+2025-07-07 18:08:16,895 - INFO - GET /pods/status called with namespace=default
+2025-07-07 18:08:16,896 - ERROR - Error in /pods/status: Invalid kube-config file. Expected object with name  in /Users/nitin/.kube/config/contexts list
+2025-07-07 18:13:25,263 - INFO - GET /health called
+2025-07-07 18:13:31,888 - INFO - GET /pods/status called with namespace=default
+2025-07-07 18:13:31,889 - ERROR - Error in /pods/status: Invalid kube-config file. Expected object with name  in /Users/nitin/.kube/config/contexts list
+2025-07-07 18:13:35,790 - INFO - GET /pods/status called with namespace=default
+2025-07-07 18:13:35,793 - ERROR - Error in /pods/status: Invalid kube-config file. Expected object with name  in /Users/nitin/.kube/config/contexts list
+2025-07-07 18:25:15,781 - INFO - GET /logs called with path=/var/logs, lines=50
+2025-07-07 18:35:59,967 - INFO - GET /health called
+2025-07-07 18:36:01,033 - INFO - GET /logs called with path=/tmp/test.log, lines=5
+2025-07-07 18:37:41,378 - INFO - GET /health called
+2025-07-07 18:37:42,394 - INFO - GET /logs called with path=/tmp/test.log, lines=5
+2025-07-07 18:40:45,874 - INFO - GET /health called
+2025-07-07 18:40:46,888 - INFO - GET /pods/status called with namespace=default
+2025-07-07 19:26:22,859 - INFO - GET /logs called with path=/var/logs, lines=50
+2025-07-07 19:27:20,949 - INFO - GET /logs called with path=/var/logs/system.logs, lines=50
+2025-07-07 19:27:32,874 - INFO - GET /logs called with path=/var/logs/system.log, lines=50
+2025-07-07 19:28:04,350 - INFO - GET /logs called with path=sremate.log, lines=50
+2025-07-07 19:34:54,489 - INFO - GET /health called
+2025-07-07 19:35:24,625 - INFO - GET /logs called with path=sremate.log, lines=50
+2025-07-07 19:36:12,208 - INFO - GET /pods/status called with namespace=default
+2025-07-07 19:55:33,925 - INFO - GET /health called
+2025-07-07 19:57:19,611 - INFO - GET /logs called with path=sremate.log, lines=10
+2025-07-07 19:58:00,353 - INFO - GET /logs called with path=/var/logs/sytem.log, lines=10
+2025-07-07 19:58:18,109 - INFO - GET /pods/status called with namespace=default

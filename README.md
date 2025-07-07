@@ -40,5 +40,10 @@ kubectl get pods -A
 # Try /pods/status with namespace: default or kube-system
 
 # Docker
-docker build -t sremate .
-docker run -p 8000:8000 sremate
+## 🐳 Run SREMate from Docker Hub
+### 🔹 Step 1: Pull the Image
+docker pull nitingr05/sremate:latest
+### 🔹 Step 2:
+docker run -p 8000:8000 nitingr05/sremate
+### 🔹 Step 3:
+http://localhost:8000/docs
