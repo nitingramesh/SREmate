@@ -47,14 +47,6 @@ docker pull nitingr05/sremate:latest
 docker run -p 8000:8000 nitingr05/sremate
 ### 🔹 Step 3:
 http://localhost:8000/docs
-
-<img width="1226" alt="Screenshot 2025-07-07 at 7 35 42 PM" src="https://github.com/user-attachments/assets/bf8ff90d-e4a4-4ba2-b6de-270cb1231b91" />
-<img width="673" alt="Screenshot 2025-07-07 at 8 29 24 PM" src="https://github.com/user-attachments/assets/c61c181a-9745-44af-a610-e91587e04eb2" />
-<img width="1226" alt="Screenshot 2025-07-07 at 7 35 50 PM" src="https://github.com/user-attachments/assets/c6063686-bfdb-46b2-9276-a499b44ea19e" />
-<img width="1226" alt="Screenshot 2025-07-07 at 7 36 22 PM" src="https://github.com/user-attachments/assets/107e9747-8d65-4ab9-92e3-f9bd656c0fbd" />
-<img width="1226" alt="Screenshot 2025-07-07 at 8 07 59 PM" src="https://github.com/user-attachments/assets/0ec1155f-520e-4735-abaa-c4fad3c313d5" />
-<img width="1226" alt="Screenshot 2025-07-07 at 7 35 06 PM" src="https://github.com/user-attachments/assets/ad67cd3d-edd8-42ba-85d1-45ec4227695b" />
-
 ## 🌐 Live Demo
 
 SREMate is now publicly hosted on Render:
