@@ -2,6 +2,10 @@
 
 **SREMate** is a lightweight, containerized API toolkit built with FastAPI to help Site Reliability Engineers monitor and manage systems effectively. It provides real-time system health metrics, log access, incident simulation, and Kubernetes pod status APIs.
 
+1.source venv/bin/activate
+2.uvicorn app.main:app --reload
+
+
 ## 🔧 Features
 - `GET /health` – Live CPU, memory, and disk usage
 - `GET /logs` – Fetch service logs dynamically
